@@ -8,7 +8,8 @@
 
 My recent Projects: 
 
-- :books: KanBan Tool
+- :books: KanBan Tool :white_check_mark:
+- :joystick: 2D Game with JavaScript
 - :sun_behind_small_cloud: Weather App
 - :video_game: Own Game in Unity 
 
