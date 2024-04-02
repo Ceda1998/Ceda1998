@@ -10,7 +10,8 @@ My recent Projects:
 
 - :books: KanBan Tool JOIN :white_check_mark:
 - :joystick: 2D Game with JavaScript SHARKIE
-- :sun_behind_small_cloud: Weather App
+- Calculator Collection for german financial advisors 
+- :sun_behind_small_cloud: Weather App :white_check_mark:
 - :video_game: Own Game in Unity 
 
 
